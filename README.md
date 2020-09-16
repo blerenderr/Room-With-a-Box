@@ -1,5 +1,6 @@
 ## Overview
-An Episodic Half-Life 2 mod revolving around a box and a room.
+An Episodic Half-Life 2 mod revolving around a box and a room. 
+My first mod, but the map isn't complete shit because I have a good amount of experience with Hammer.
 ## Install Instructions
 1. Make sure you have "Source SDK Base 2013 Singleplayer" installed, [steam://rungameid/243730]
 2. Go to your local "steamapps" folder in C:\Program Files (x86)\Steam
